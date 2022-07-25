@@ -1,0 +1,345 @@
+
+.outerdiv{
+    height: 12vh;
+    border: 2px solid rgb(230,224,224);
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+    display: flex;
+    
+}
+
+.FDiv{
+    width:50%;
+    /* border: 1px solid grey; */
+    border-radius: 5px;
+    height: 40px;
+    padding-top: 5px;
+    position: relative;
+    left: 180px;
+    top: 20px;
+    background-color: #F1F3F4 ;
+}
+
+#search{
+    font-size: 17px;
+    
+}
+
+.fdiv{
+    width:90%;
+    height: 20px;
+    position: relative;
+    left: 20px;
+    bottom: 4px;
+    background-color: #F1F3F4;
+    border: none ; 
+    outline: none !important;
+    
+}
+
+
+.outerdiv img{
+position: relative;
+height: 50px;
+width: 50px;
+margin-top: 15px;
+left:10px ;
+   
+}
+
+
+.outerdiv span{
+    margin-top: 25px;
+    position: relative;
+    left:20px ;
+    font-size: 30px;
+    color: #5f6368 ;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.btn{
+    position: relative;
+height: 40px;
+width: 50px;
+margin-top: 20px;
+left:240px ;
+    background-image: url('../assets/btn.JPG');
+    border: none ; 
+    outline: none !important;
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+}
+
+.btn1{
+    position: relative;
+height: 40px;
+width: 45px;
+margin-top: 15px;
+left:260px ;
+    background-image: url('../assets/btn11.JPG');
+    border: none ; 
+    outline: none !important;
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+    
+}
+
+.btn2{
+    
+    position: relative;
+height: 40px;
+width: 40px;
+margin-top: 20px;
+left:270px ;
+    background-image: url('../assets/btn2.JPG');
+    border: none ; 
+    outline: none !important;
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+    
+}
+
+
+.btn3{
+    position: relative;
+height: 40px;
+width: 50px;
+margin-top: 20px;
+left:280px ;
+    background-image: url('../assets/btn3.JPG');
+    border: none ; 
+    outline: none !important;
+    /* border: 1px solid rgb(247, 244, 244); */
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+    
+}
+
+ .innerdiv{
+    width: 100%;
+    height: 150vh;
+    border-radius: 10px;
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+    display: flex;
+    justify-content: center;
+    top: 5px;
+    position: relative;
+   
+} 
+
+.firstdiv{
+    width: 100%;
+    /* width: 1500px; */
+    position: relative;
+    left: 300px;
+    
+} 
+.notebtn{
+    height: 45px;
+    width: 470px;
+    position: relative;
+    top: 30px;
+    left: 200px;
+    background-color: white;
+    border: 2px solid rgb(230,224,224); 
+    
+    }
+
+.nte{
+    position: relative;
+    height: 23px;
+    width: 130px;
+    font-size: 17px;
+    right: 9px;
+    top: 10px;
+   }
+
+/* #np p{
+    height: 20px;
+    width: 500px;
+border: 2px solid green;
+
+} */
+   .top{
+    position: relative;
+    bottom: 25px;
+    left: 350px;
+    height: 30px;
+    width: 100px;
+    margin-top: 5px;
+   
+   }
+
+   .maindemo{
+    position: relative;
+    top: 160px;
+   right: 200px;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+    border: 2px solid blue;
+   }
+    .box2{
+        visibility: hidden;
+        
+        }
+        
+        
+        .box1:hover .box2{
+        visibility: visible;
+        }
+        
+       
+.button{
+    width:10px;
+    height:10px;
+    background-color: white;
+     /* border: 1px solid rgb(230,224,224); */
+    border: none ; 
+    outline: none !important;
+    
+   /* border: 2px solid red; */
+} 
+
+
+
+#title{
+    font-family:  Arial, sans-serif;
+    font-size: 17px;
+    color: black;
+    
+}
+
+.div2 {
+    height: 20vh;
+    width: 800px;
+    padding: 50px 10px;
+    position: relative;
+    left: 500px;
+    text-align: center;
+    background-color: white;
+    margin-top: 30px;
+    border: 1px solid rgb(230,224,224);
+   
+     }
+
+     
+.mdiv{
+    width:500px;
+    height: 40px;
+    position: relative;
+    left: 1px;
+    /* top: 2px; */
+    bottom: 50px;
+    background-color: white;
+    border: none ; 
+    outline: none !important;
+   
+      }
+
+
+
+.ndiv{width:500px;
+    height: 40px;
+    position: relative;
+    left: 2px;
+    bottom: 49px;
+    background-color: white;
+    border: none ; 
+   outline: none !important;
+   
+    }
+
+
+
+
+
+.icon{
+    position: relative;
+    bottom:40px;
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+
+
+
+#btn {
+    width: 60px;
+    height: 30px;
+    position: relative;
+    color: black;
+    background-color: white;
+    border: none ; 
+    outline: none !important;
+    font-size: 17px;
+   
+   
+}
+.slide1{
+    position: relative;
+width: 17%;
+right:890px;
+flex-direction: column;
+display: flex;
+padding-top: 20px;
+
+}
+
+
+.dropbtn {
+    color: white;
+    /* padding: 35px; */
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    height: 50px;
+    width: 40px;
+    margin-top: 20px;
+ background-image: url('../assets/menu.JPG');
+     }
+  
+  /* .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+ 
+  }
+   */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 250px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+height: 90vh;
+    
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 14px 17px;
+    text-decoration: none;
+    display: block;
+      /* margin-left: 70px; */
+    
+    
+  }
+
+  .item a{
+    border: 2px solid red;
+  }
+  /* .material-icons{
+
+  } */
+
+  
+  .dropdown a:hover {background-color: #ddd;}
+  .show {display: block;}  
+

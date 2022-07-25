@@ -1,0 +1,262 @@
+.outerdiv{
+    /* border: 2px solid red; */
+    height: 120vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.innerdiv{
+    border: 2px solid rgb(230,224,224);
+    width: 55%;
+    height: 75%;
+    padding: 10px;
+    padding-top: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0,0,0,0,24) 0px 3px 8px;
+    display: flex;
+    justify-content: center;
+    bottom: 90px;
+    position: relative;
+       
+}
+
+.regForm{
+width: 72%;
+padding-top: 20px;
+
+ 
+}
+
+.image{
+    
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+.fcolor{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.ucolor{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+.ncolor{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+.regForm p{
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+ color: black;
+}
+
+.names{
+    width: 95%;
+display: flex;
+justify-content: space-between;
+ 
+}
+
+.inputFDiv{
+    width: 47%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 40px;
+    padding-top: 5px;
+    
+   
+}
+
+.inputLDiv{
+    width: 47%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 40px;
+    padding-top: 5px;
+    
+    
+}
+
+
+#firstName{
+    border: none;
+    outline: none !important;
+    height: 30px;
+}
+
+#lastName{
+    border: none;
+outline: none !important;
+height: 30px;
+}
+
+.inputUDiv{
+    width: 92%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 35px;
+    padding-left: 5px ;
+    margin-top: 25px;
+}
+
+#userName{
+    border: none;
+    outline: none !important;
+    height: 30px;
+    width: 95%;
+   
+}
+
+.inputPDiv{
+    width: 47%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 35px;
+    padding-left: 5px;
+}
+
+.inputCPDiv{
+    width: 47%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 35px;
+    padding-left: 5px;
+    
+}
+
+#password{
+    border: none;
+    outline: none !important;
+    height: 30px;
+   
+}
+
+
+#cpassword {
+    border: none;
+    outline: none !important;
+    height: 30px;
+
+}
+
+#usernameHint{
+    font-size: 12px;
+    color: gray;
+    margin-left: 8px;
+    margin-top: 17px;
+    
+    
+}
+
+.txt{
+    color:  blue;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 300;
+    
+}
+
+a:hover{
+    background-color: rgb(236,236,245);
+    cursor: pointer;
+}
+
+.psw{
+ width: 95%;
+ display: flex;
+ justify-content: space-between;
+ margin-top: 35px;
+ 
+}
+
+
+#passwordHint{
+    font-size: 12px;
+    color: gray;
+    margin-left: 8px;
+    margin-top: 17px;
+}
+
+.signin{
+    position: relative;
+    color: blue;
+    top: 30px;
+    left :10px;
+   
+}
+
+.signin:hover{
+    background-color: rgb(236,236,245);
+    cursor: pointer;
+
+}
+
+
+#btn{
+    position: relative;
+    background-color: blue;
+    height:30px;
+   width: 20%;  
+   left: 160px;
+   top: 30px;
+  border: none !important;
+color: white;
+
+
+}
+
+
+#mg{
+    position: relative;
+    left: 10px;
+}
+
+
+/* .formError{
+    border: 2px solid red;
+    width: 47%;
+    border-radius: 5px;
+    height: 35px;
+    padding-left: 5px;
+}
+
+.userError{
+    width: 92%;
+    border: 2px solid red;
+    border-radius: 5px;
+    height: 35px;
+    padding-left: 5px;
+    margin-top: 25px;
+} */
+
+
+
+/* .textInput{
+    border: 2px solid red;
+} */
+
+
+/* .text-denger{
+    border: 2px solid red;
+} */
